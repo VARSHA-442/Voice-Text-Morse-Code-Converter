@@ -60,4 +60,4 @@ Export Morse to audio files (WAV/MP3)
 ---
 
 ### Author    
-Created with 💗 by Sathvik Reddy
+Created with 💗 by Karada Varsha
